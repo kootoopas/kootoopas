@@ -1,1 +1,1 @@
-![nuclear-shaman-earthquare-effect-tree-code-banner](https://user-images.githubusercontent.com/601001/167255646-23099216-a4b6-4820-a8cc-dfd765fdbdaa.png)
+![shaman-earthquare-effect-tree-code-twitter-banner](https://user-images.githubusercontent.com/601001/170190935-b9207436-b1dd-40c9-ae98-9fab683c8cfe.png)
