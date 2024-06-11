@@ -1,4 +1,4 @@
-# BFA DEMO DROPS THIS SUMMER 🌬🦾
+# BFA DEMO DROPS Q3 2024 🌬🦾
 
 scifi gamedev [@nuclearmodeg](https://x.com/nuclearmodeg) (40k words of lore, handmade engine) | ex gr bigtech frontend lead 
 
