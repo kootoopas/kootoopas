@@ -1,5 +1,7 @@
 # BFA DEMO FALL 2024 🌬🦾
 
-scifi gamedev making [@nuclearmodeg](https://x.com/birthfromabove) (40k words of lore, handmade engine) | ex gr bigtech frontend lead 
+scifi gamedev making [@birthfromabove](https://x.com/birthfromabove) (50k+ lore words, engine) | ex gr bigtech frontend lead 
 
-![effect tree translator dependency registration](https://user-images.githubusercontent.com/601001/198174493-0b2f5765-f81e-413e-a2a2-b0760d2ce026.jpeg)
+![image](https://github.com/user-attachments/assets/3e648613-8b93-4657-a456-09b07c009353)
+
+![image](https://github.com/user-attachments/assets/37022ebc-323d-4034-9ae2-8de0f3a2c7bf)
