@@ -1,4 +1,4 @@
-# BFA DEMO FALL 2024 🌬🦾
+# BFA Demo Late Nov 2024
 
 scifi gamedev making [@birthfromabove](https://x.com/birthfromabove) (50k+ lore words, art, engine) | ex gr bigtech frontend lead 
 
