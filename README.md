@@ -1,5 +1,5 @@
 # BFA Demo Q2 2025
-gamedev making [Birth From Above](https://x.com/i/broadcasts/1gqxvNNzzagxB) (custom engine, art & story) | ex big website frontend lead 
+making [Birth From Above](https://x.com/i/broadcasts/1gqxvNNzzagxB) (custom engine, art & story) | ex big website frontend lead 
 
 ![image](https://github.com/user-attachments/assets/3e648613-8b93-4657-a456-09b07c009353)
 
